@@ -1,0 +1,15 @@
+{
+  "name": "projectrubric-root",
+  "version": "1.0.0",
+  "description": "ProjectRubric — A transparent MERN rubric evaluation platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": ["mern", "rubric", "grading", "react", "tailwind", "jwt"],
+  "author": "",
+  "license": "ISC"
+}
+
