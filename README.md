@@ -1,6 +1,6 @@
 # ProjectRubric 📊
 
-> **Live Demo**: 🔗 [https://projectrubric-demo.vercel.app](https://projectrubric-demo.vercel.app) *(Deployment Link Placeholder)*
+> **Live Demo (Vercel)**: 🔗 [https://projectrubric.vercel.app](https://projectrubric.vercel.app) *(Vercel Deployment URL Placeholder)*
 
 A transparent project rubric tracker and evaluation dashboard built with the **MERN** stack (MongoDB, Express, React, Node.js), Tailwind CSS, and Recharts.
 
